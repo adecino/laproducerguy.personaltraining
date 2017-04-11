@@ -1,0 +1,7 @@
+# Documentation: https://roots.io/trellis/docs/mail/
+mail_smtp_server: smtp.mailgun.org:587
+mail_admin: postmaster@crossfithighfive.laproducerguy.com
+mail_hostname: crossfithighfive.laproducerguy.com
+mail_user: postmaster@crossfithighfive.laproducerguy.com
+mail_password: 2fc5f443b1f0027f3ba681b06e99b9b9
+#mail_password: "{{ vault_mail_password }}" # Define this variable in group_vars/all/vault.yml
